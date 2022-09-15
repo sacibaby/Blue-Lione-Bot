@@ -1,6 +1,6 @@
 <h1 align="center"> ⚜ SUNETH MD ⚜<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/fab779c4d4a28f192cfc2.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
 
 
 
